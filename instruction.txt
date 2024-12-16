@@ -1,0 +1,15 @@
+System requirements:
+MATLAB R2023a
+Integrated-Info-Decomp toolbox
+Brain Connectivity Toolbox
+
+
+File:
+get_normalization.m -- matrix normalization
+PhiIDFull.m -- information decompositon 
+efficiency_wei.m -- calculate global efficiency
+main_dynamic_syn_redun.m -- generate dynamic brain synergy and redundancy matrices
+main_assessment.m -- quantify dynamic brain synergy and redundancy
+
+Instructions for use
+It has been shown in the code.
